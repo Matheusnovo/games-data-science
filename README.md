@@ -1,6 +1,6 @@
 # 📊 Video Game Sales Analysis
 
-Este repositório contém a análise exploratória de dados (EDA) do conjunto de dados de vendas globais de videogames. O objetivo do projeto é explorar padrões de vendas de jogos em diferentes plataformas, anos de lançamento e gêneros, visualizando as tendências do mercado de videogames ao longo do tempo.
+Este repositório contém a análise exploratória do conjunto de dados de vendas globais de video games. O objetivo do projeto é explorar padrões de vendas de jogos em diferentes plataformas, anos de lançamento e gêneros, visualizando as tendências do mercado de videogames ao longo do tempo.
 
 ## 📁 Dataset
 
